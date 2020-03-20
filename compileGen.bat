@@ -1,0 +1,2 @@
+javac Gen.java
+pause
